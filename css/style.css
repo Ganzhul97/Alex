@@ -47,7 +47,8 @@ a {
 }
 
 .menu {
-    padding-bottom: 15px;
+    display: flex;
+    padding-bottom: 10px;
 }
 
 .login {
@@ -65,7 +66,7 @@ a {
 }
 
 .banner {
-    background: url(/img/banner.png) no-repeat;
+    background: url(../img/banner.png) no-repeat;
     max-width: 1300px;
     width: 100%;
     height: 570px;
@@ -302,19 +303,19 @@ padding-top: 20px;
 }
 
 .bg_first {
-    background: url(/img/pro1.png) no-repeat;
+    background: url(../img/pro1.png) no-repeat;
     width: 300px;
     height: 230px;
 }
 
 .bg_second {
-    background: url(/img/pro2.png) no-repeat;
+    background: url(../img/pro2.png) no-repeat;
     width: 300px;
     height: 230px;
 }
 
 .bg_third {
-    background: url(/img/pro3.png) no-repeat;
+    background: url(../img/pro3.png) no-repeat;
     width: 300px;
     height: 230px;
 }
@@ -399,7 +400,7 @@ padding-top: 20px;
 
 /* The part of */
 .part {
-    background: url(/img/partof.png) no-repeat;
+    background: url(../img/partof.png) no-repeat;
     max-width: 1300px;
     width: 100%;
     height: 670px;
@@ -481,6 +482,7 @@ margin-right: 85px;
 .copy {
     padding-top: 70px;
 }
+
 
 
 
